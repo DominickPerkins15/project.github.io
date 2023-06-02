@@ -1,0 +1,18 @@
+body {
+  background-color: sand; 
+}
+
+h1 {
+  color: dark-grey;
+  text-alight: center;
+}
+
+h2 {
+  color: blue-grey;
+  text-alight: center;
+}
+
+p {
+  font-family: verdana;
+  text-size: 30px;
+}
