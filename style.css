@@ -1,18 +1,18 @@
 body {
-  background-color: sand; 
+  background-color: sand;
 }
 
 h1 {
-  color: dark-grey;
+  color: darkgrey;
   text-align: center;
 }
 
 h2 {
-  color: blue-grey;
+  color: bluegrey;
   text-align: center;
 }
 
 p {
   font-family: verdana;
-  text-size: 30px;
+  font-size: 30px;
 }
